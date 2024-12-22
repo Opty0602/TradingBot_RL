@@ -1,0 +1,12 @@
+swig
+wrds
+pyportfolioopt
+pandas==1.3.5
+numpy==1.24.4
+stable_baselines3
+pyfolio
+yfinance
+tensorboard
+alpaca_trade_api
+exchange_calendars==3.6.3
+stockstats>=0.4.0
